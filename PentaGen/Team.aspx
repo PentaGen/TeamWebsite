@@ -26,10 +26,11 @@
 
     <div class="row well">
         <div class="col-md-3">
-            <%--image--%>
+            <img src="Images/krystal.jpg" />
         </div>
         <div class="col-md-9">
-            <p>Testing the well in a well</p>
+            <h3>Krystal Way</h3>
+            <p>Krystal is cool...</p>
         </div> 
     </div>
 
