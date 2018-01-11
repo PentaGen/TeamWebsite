@@ -35,7 +35,7 @@
                 <li>Front-End Development</li>
                 <li>Backend Development</li>
             </ul>
-            <a href="http://rlong14.dmitstudent.ca/Capstone/mypage/">Go to Rebecca's homepage</a>
+            <a href="http://rlong14.dmitstudent.ca/Capstone/MyWebpage/mypage/">Go to Rebecca's homepage</a>
         </div> 
     </div>
 
