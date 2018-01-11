@@ -18,7 +18,7 @@
                 <li>Documentation</li>
                 <li>Backend Development</li>
             </ul>
-            <a href="">Go to Krystal's homepage</a>
+            <a href="http://kway4.dmitstudent.ca/CapStone/KrystalWay/">Go to Krystal's homepage</a>
         </div> 
     </div>
 
@@ -73,10 +73,11 @@
 
     <div class="row well">
         <div class="col-md-3">
-            <%--image--%>
+            <img style="margin-right: 20px;" src="http://via.placeholder.com/240x373" />
         </div>
         <div class="col-md-9">
-            <p>Testing the well in a well</p>
+            <h3>Brandon De Gans - <i>MIA</i></h3>
+            <p>Brandon is currently MIA. Efforts are underway to establish his location.</p>
         </div> 
     </div>
 </asp:Content>
