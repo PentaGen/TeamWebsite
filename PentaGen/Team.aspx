@@ -8,6 +8,16 @@
 
     <div class="row well">
         <div class="col-md-3">
+            <img src="Images/krystal.jpg" />
+        </div>
+        <div class="col-md-9" style="margin-left: 20px;">
+            <h3>Krystal Way - <i>Team Lead</i></h3>
+            <p>Krystal is cool...</p>
+        </div> 
+    </div>
+
+    <div class="row well">
+        <div class="col-md-3">
             <%--image--%>
         </div>
         <div class="col-md-9">
@@ -21,16 +31,6 @@
         </div>
         <div class="col-md-9">
             <p>Testing the well in a well</p>
-        </div> 
-    </div>
-
-    <div class="row well">
-        <div class="col-md-3">
-            <img src="Images/krystal.jpg" />
-        </div>
-        <div class="col-md-9">
-            <h3>Krystal Way</h3>
-            <p>Krystal is cool...</p>
         </div> 
     </div>
 
