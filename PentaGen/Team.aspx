@@ -12,7 +12,13 @@
         </div>
         <div class="col-md-9">
             <h3>Krystal Way - <i>Team Lead</i></h3>
-            <p>Krystal is cool...</p>
+            <p>Krystal is the designated Team Lead for PentaGen. Her strong points include:</p>
+            <ul>
+                <li>Front-End Development</li>
+                <li>Documentation</li>
+                <li>Backend Development</li>
+            </ul>
+            <a href="">Go to Krystal's homepage</a>
         </div> 
     </div>
 
