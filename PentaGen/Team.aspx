@@ -57,10 +57,17 @@
 
     <div class="row well">
         <div class="col-md-3">
-            <%--image--%>
+            <img style="margin-right: 20px;" src="Images/placeholder.png" />
         </div>
         <div class="col-md-9">
-            <p>Testing the well in a well</p>
+            <h3>Ronald Agyepong</h3>
+            <p>Ronald is the quiet member of PentaGen. He also has 0 usable pictures for this page. His strong points include:</p>
+            <ul>
+                <li>System Design & Analysis</li>
+                <li>Revision & Proofing</li>
+                <li>Back-End Development</li>
+            </ul>
+            <a href="">Go to Ron's homepage</a>
         </div> 
     </div>
 
