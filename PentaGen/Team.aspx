@@ -41,10 +41,17 @@
 
     <div class="row well">
         <div class="col-md-3">
-            <%--image--%>
+            <img style="margin-right: 20px;" src="Images/jordan.jpg" />
         </div>
         <div class="col-md-9">
-            <p>Testing the well in a well</p>
+            <h3>Jordan Bezovie</h3>
+            <p>Jordan is also a member of PentaGen. His strong points include:</p>
+            <ul>
+                <li>Back-End Development</li>
+                <li>Documentation</li>
+                <li>Moral Support</li>
+            </ul>
+            <a href="">Go to Jordan's homepage</a>
         </div> 
     </div>
 
