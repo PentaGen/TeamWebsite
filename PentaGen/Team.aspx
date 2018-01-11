@@ -8,9 +8,9 @@
 
     <div class="row well">
         <div class="col-md-3">
-            <img src="Images/krystal.jpg" />
+            <img style="margin-right: 20px;" src="Images/krystal.jpg" />
         </div>
-        <div class="col-md-9" style="margin-left: 20px;">
+        <div class="col-md-9">
             <h3>Krystal Way - <i>Team Lead</i></h3>
             <p>Krystal is cool...</p>
         </div> 
