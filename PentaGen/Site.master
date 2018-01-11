@@ -37,7 +37,7 @@
                 <%--Site Scripts--%>
             </Scripts>
         </asp:ScriptManager>
-
+        
         <div class="navbar navbar-inverse navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">
@@ -46,7 +46,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" runat="server" href="~/">PentaGen</a>
+                    <img style="height: 50px;" src="Images/white-logo.png" /><a class="navbar-brand" runat="server" href="~/">PentaGen</a>
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
