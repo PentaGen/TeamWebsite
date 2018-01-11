@@ -5,7 +5,7 @@
     <div class="jumbotron">
         <h1>PentaGen</h1>
         <p class="lead">We are four (sometimes five) students studying Computer Software Development at NAIT</p>
-        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more about the team &raquo;</a></p>
+        <p><a runat="server" href="~/Team.aspx" class="btn btn-primary btn-lg">Learn more about the team &raquo;</a></p>
     </div>
 
     <div class="row">
