@@ -67,7 +67,7 @@
                 <li>Revision & Proofing</li>
                 <li>Back-End Development</li>
             </ul>
-            <a href="">Go to Ron's homepage</a>
+            <a href="http://DMIT-DEV1/Students/ragyepong1/Ron">Go to Ron's homepage</a>
         </div> 
     </div>
 
