@@ -51,7 +51,7 @@
                 <li>Documentation</li>
                 <li>Moral Support</li>
             </ul>
-            <a href="">Go to Jordan's homepage</a>
+            <a href="http://DMIT-DEV1/Students/jbezovie3/Capstone/jbezovieSite">Go to Jordan's homepage</a>
         </div> 
     </div>
 
