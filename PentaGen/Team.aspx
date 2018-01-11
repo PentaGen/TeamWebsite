@@ -24,11 +24,19 @@
 
     <div class="row well">
         <div class="col-md-3">
-            <%--image--%>
+            <img style="margin-right: 20px;" src="Images/rebecca.jpg" />
         </div>
         <div class="col-md-9">
-            <p>Testing the well in a well</p>
-        </div>      
+            <h3>Rebecca Long</h3>
+            <p>Rebecca is a helpful and wonderful member of PentaGen. Her strong points include:</p>
+            <ul>
+                
+                <li>Problem Solving</li>
+                <li>Front-End Development</li>
+                <li>Backend Development</li>
+            </ul>
+            <a href="">Go to Rebecca's homepage</a>
+        </div> 
     </div>
 
     <div class="row well">
