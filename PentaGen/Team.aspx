@@ -73,11 +73,18 @@
 
     <div class="row well">
         <div class="col-md-3">
-            <img style="margin-right: 20px;" src="http://via.placeholder.com/240x373" />
+            <img style="margin-right: 20px; width:100%;" src="Images/brandon.jpg" />
         </div>
         <div class="col-md-9">
-            <h3>Brandon De Gans - <i>MIA</i></h3>
-            <p>Brandon is currently MIA. Efforts are underway to establish his location.</p>
+            <h3>Brandon De Gans</h3>
+            <p>Brandon is another member of the group! His strengths are listed as followed: </p>
+            <ul>
+                <li>Back-End Development primarily in C# & SQL Server</li>
+                <li>Experience (Has been working in app development since the April of 2017)</li>
+                <li>Team Motivation</li>
+            </ul>
+            <br />
+            <a href="BrandondeGans.html" class="btn btn-primary btn-lg">Learn More</a>
         </div> 
     </div>
 </asp:Content>
