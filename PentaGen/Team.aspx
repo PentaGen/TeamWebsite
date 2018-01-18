@@ -11,8 +11,8 @@
             <img style="margin-right: 20px;" src="Images/krystal.jpg" />
         </div>
         <div class="col-md-9">
-            <h3>Krystal Way - <i>Team Lead</i></h3>
-            <p>Krystal is the designated Team Lead for PentaGen. Her strong points include:</p>
+            <h3>Krystal Way</h3>
+            <p>Krystal is a valuable member of TBD. Her strong points include:</p>
             <ul>
                 <li>Front-End Development</li>
                 <li>Documentation</li>
@@ -28,7 +28,7 @@
         </div>
         <div class="col-md-9">
             <h3>Rebecca Long</h3>
-            <p>Rebecca is a helpful and wonderful member of PentaGen. Her strong points include:</p>
+            <p>Rebecca is a helpful and wonderful member of TBD. Her strong points include:</p>
             <ul>
                 
                 <li>Problem Solving</li>
@@ -41,17 +41,17 @@
 
     <div class="row well">
         <div class="col-md-3">
-            <img style="margin-right: 20px;" src="Images/jordan.jpg" />
+            <img style="margin-right: 20px;" src="" />
         </div>
         <div class="col-md-9">
-            <h3>Jordan Bezovie</h3>
-            <p>Jordan is also a member of PentaGen. His strong points include:</p>
+            <h3>Weite Geng</h3>
+            <p></p>
             <ul>
-                <li>Back-End Development</li>
-                <li>Documentation</li>
-                <li>Moral Support</li>
+                <li></li>
+                <li></li>
+                <li></li>
             </ul>
-            <a href="http://DMIT-DEV1/Students/jbezovie3/Capstone/jbezovieSite">Go to Jordan's homepage</a>
+            <a href="">Go to Weite's homepage</a>
         </div> 
     </div>
 
@@ -60,14 +60,14 @@
             <img style="margin-right: 20px;" src="Images/placeholder.png" />
         </div>
         <div class="col-md-9">
-            <h3>Ronald Agyepong</h3>
-            <p>Ronald is the quiet member of PentaGen. He also has 0 usable pictures for this page. His strong points include:</p>
+            <h3>Manali Patel</h3>
+            <p></p>
             <ul>
-                <li>System Design & Analysis</li>
-                <li>Revision & Proofing</li>
-                <li>Back-End Development</li>
+                <li></li>
+                <li></li>
+                <li></li>
             </ul>
-            <a href="http://DMIT-DEV1/Students/ragyepong1/Ron">Go to Ron's homepage</a>
+            <a href="">Go to Manali's homepage</a>
         </div> 
     </div>
 
